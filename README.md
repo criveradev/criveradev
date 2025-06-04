@@ -1,8 +1,14 @@
-### 🚀 Acerca de mí
-
 - **🧬 Magíster en Data Science**
 - **📚 Diplomado en Gestión de Proyectos TI**
 - **🎓 Ingeniero en Informática Mención Desarrollo de Sistemas**
+
+---
+
+### 🚀 Acerca de mí
+<p>
+Claudio Rivera Bravo, Ingeniero en Informática con una fuerte orientación al desarrollo Backend. Me especializo en construir sistemas robustos, eficientes y escalables, siempre enfocado en la calidad del código, el rendimiento y las buenas prácticas de ingeniería de software.
+Tengo experiencia en el diseño e implementación de APIs RESTful, arquitectura de software modular, y optimización de procesos server-side. Mi enfoque es práctico y orientado a resultados, buscando siempre soluciones limpias y sostenibles.
+</p>
   
 ---
 
