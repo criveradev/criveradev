@@ -3,11 +3,7 @@
 - **🧬 Magíster en Data Science**
 - **📚 Diplomado en Gestión de Proyectos TI**
 - **🎓 Ingeniero en Informática Mención Desarrollo de Sistemas**
-- ⚙️ Me he especializo en el desarrollo de **APIs REST**, optimización de rendimiento y diseño escalable.
-- 🛠️ Trabajo con tecnologías como **Node.js**, **Express**, **Python**, **Django**, **PostgreSQL**, y más.
-- 🔍 Me interesa la calidad del código, buenas prácticas, y metodologías ágiles.
-- 🧩 En constante búsqueda de nuevos desafíos y aprendizaje continuo.
-
+  
 ---
 
 ### 🛠️ Tecnologías & Herramientas
