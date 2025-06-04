@@ -1,8 +1,9 @@
 
 ### 🚀 Acerca de mí
-<p> <strong>Claudio Rivera Bravo</strong> — Ingeniero en Informática, con una fuerte orientación al desarrollo Backend. Me especializo en construir sistemas robustos, eficientes y escalables, siempre enfocado en la calidad del código, el rendimiento y las buenas prácticas de ingeniería de software.
-Tengo experiencia en el diseño e implementación de <strong>APIs RESTful</strong>, arquitectura de software modular, y optimización de procesos server-side.
-Mi enfoque es práctico y orientado a resultados, buscando siempre soluciones limpias, mantenibles y sostenibles.
+<p> <strong>Ingeniero en Informática Mención Desarrollo de Sistemas</strong>, especializado en desarrollo Backend. Apasionado por construir soluciones tecnológicas robustas, eficientes y escalables, con un enfoque centrado en la calidad del código, el rendimiento y las buenas prácticas de ingeniería de software.
+
+Cuento con sólida experiencia en el diseño e implementación de APIs RESTful, arquitectura de software modular y optimización de procesos del lado del servidor.
+Mi enfoque es práctico y orientado a resultados, priorizando soluciones limpias, sostenibles y fáciles de mantener en el tiempo.
 </p>
   
 ---
