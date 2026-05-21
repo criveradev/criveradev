@@ -37,7 +37,7 @@
 
 <p align="center">
   <a href="https://www.credly.com/badges/ddd737b5-6384-4f6b-8632-843b1f4f3e97/public_url" target="_blank">
-    <img src="https://images.credly.com/size/150x150/badges/ddd737b5-6384-4f6b-8632-843b1f4f3e97/image.png" height="150" alt="Certificación Credly"/>
+    <img src="./img/scrum-foundation-professional.png" height="150" alt="Certificación Credly"/>
   </a>
 </p>
 
