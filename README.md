@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hola, soy Claudio Rivera Bravo</h1>
 
 <p align="center">
-  <strong>Ingeniero en Informática · Backend Developer · Data Science</strong>
+  <strong>Ingeniero en Informática · Backend Developer </strong>
 </p>
 
 <p align="center">
